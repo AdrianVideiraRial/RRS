@@ -1,26 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Noticias de actualidad</title>
-        <link></link>
+        <title>Mi canal de rss</title>
+        <link>https://www.avideirarial-danielcastelao.epizy.com</link>
         <description>En los siguientes enlaces encontrarás noticias para informarte y entretenerte cada día</description>
         <language>es-ES</language>
         <item>
-            <tittle>Ademas del bueno y del malo, los medicos descubren un colesterol feo</tittle>
+            <title>Ademas del bueno y del malo, los medicos descubren un colesterol feo</title>
             <description>Noticias satíricas sobre Ciencia y Tecnología</description>
+
+            <!-- url de la noticia a mostrar-->
             <link>https://www.elmundotoday.com/noticias/tecnologia/</link>
+
+            <!-- Identificador personal de la noticia-->
+            <guid>https://www.elmundotoday.com/noticias/tecnologia/</guid>
             
         </item>
         <item>
-            <tittle>Actualidad del mundo del deporte</tittle>
+            <title>Actualidad del mundo del deporte</title>
             <description>Actualidad sobre el R.C Celta de Vigo</description>
+
+            <!-- url de la noticia a mostrar-->
             <link>https://www.marca.com/futbol/celta/2023/02/03/63dd11d2e2704e123b8b45d8.html</link>
+
+            <!-- Identificador personal de la noticia-->
+            <guid>https://www.marca.com/futbol/celta/2023/02/03/63dd11d2e2704e123b8b45d8.html</guid>
         </item>
 
         <item>
-            <tittle>El tiempo en tu ciudad</tittle>
+            <title>El tiempo en tu ciudad</title>
             <description>Descubre cual es la previsión meteorológica para los proximos días en tu ciudad</description>
+
+            <!-- url de la noticia a mostrar-->
             <link>https://www.eltiempo.es/vigo.html</link>
+
+            <!-- Identificador personal de la noticia-->
+            <guid>https://www.eltiempo.es/vigo.html</guid>
         </item>
     </channel>
 </rss>
