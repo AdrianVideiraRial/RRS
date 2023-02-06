@@ -2,10 +2,11 @@
 <rss version="2.0">
     <channel>
         <title>Mi canal de rss</title>
-        <link>https://www.avideirarial-danielcastelao.epizy.com</link>
+        <link>https://adrianvideirarial.github.io/RRS/</link>
         <description>En los siguientes enlaces encontrarás noticias para informarte y entretenerte cada día</description>
         <language>es-ES</language>
         <item>
+            <category>Humor</category>
             <title>Ademas del bueno y del malo, los medicos descubren un colesterol feo</title>
             <description>Noticias satíricas sobre Ciencia y Tecnología</description>
 
@@ -17,6 +18,7 @@
             
         </item>
         <item>
+            <category>Deporte</category>
             <title>Actualidad del mundo del deporte</title>
             <description>Actualidad sobre el R.C Celta de Vigo</description>
 
@@ -28,6 +30,7 @@
         </item>
 
         <item>
+            <category>Meteorología</category>
             <title>El tiempo en tu ciudad</title>
             <description>Descubre cual es la previsión meteorológica para los proximos días en tu ciudad</description>
 
